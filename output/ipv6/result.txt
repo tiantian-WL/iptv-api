@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-01 18:50:22,https://migu.188766.xyz/?migutoken=74ffdfbf7119cbe24d0e0d768f62ed60&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy$订阅源
+2025-09-02 22:01:38,https://migu.188766.xyz/?migutoken=74ffdfbf7119cbe24d0e0d768f62ed60&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://migu.188766.xyz/?migutoken=74ffdfbf7119cbe24d0e0d768f62ed60&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy$订阅源
-CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4$订阅源
+CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5$订阅源
 CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus$订阅源
@@ -15,7 +15,6 @@ CCTV-10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd$订阅源
 CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11$订阅源
 CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
@@ -26,7 +25,6 @@ CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 
 📡卫视频道,#genre#
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
 北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing$订阅源
 湖北卫视,https://migu.188766.xyz/?migutoken=b8771f07c28c163e3bb75c81ee04df5a&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1$订阅源
@@ -41,8 +39,75 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi$订阅源
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 江苏卫视,https://migu.188766.xyz/?migutoken=6e76c6dc610df9add9f2e0ae4cfbc347&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy$订阅源
-内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$订阅源
 陕西卫视,https://migu.188766.xyz/?migutoken=10c796b9a6319d64719c78ea4d04cffa&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1$订阅源
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
+
+🌊港·澳·台,#genre#
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
+翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
+凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•IPV4『线路41』
+凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000$订阅源
+凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
+凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd$订阅源
+凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000$订阅源
+凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn$订阅源
+凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd$订阅源
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
+香港卫视,https://yvxymm.tv12.xyz/175.m3u8$订阅源
+纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$订阅源
+纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule$订阅源
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源
+三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
+三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8$订阅源
+东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe$订阅源
+东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper$订阅源
+东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$订阅源
+
+🎬电影频道,#genre#
+CHC动作电影,http://eastscreen.tv/ooooo.php$订阅源
+黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
+纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie$订阅源
+经典电影,https://mursor.ottiptv.cc/bilibili/1777481601$订阅源
+天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy$订阅源
+天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
+东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$订阅源
+东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper$订阅源
+
+🎥咪咕直播,#genre#
+
+🏀体育频道,#genre#
+CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5$订阅源
+CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus$订阅源
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
+纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$订阅源
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
+江苏体育,https://migu.188766.xyz/?migutoken=be4cb6f2ed88166d0a303bceabe41798&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy$订阅源
+睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive$订阅源
+风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
+
+🪁动画频道,#genre#
+河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
+经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+漫画解说,https://mursor.ottiptv.cc/yy/1382735568$订阅源
+漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
+
+🎮游戏频道,#genre#
+
+🎵音乐频道,#genre#
+CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
+
+🏛经典剧场,#genre#
+天龙八部,http://www.clmy.cc:35455/yy/1355067965$订阅源
+天龙八部,https://live.metshop.top/huya/23903123$订阅源
+水浒传,http://www.clmy.cc:35455/yy/1353873252$订阅源
+新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667$订阅源
