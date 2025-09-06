@@ -336,3 +336,15 @@ CCTV-15
 菏泽新闻综合
 菏泽经济生活
 
+央视频道,#genre#
+CCTV1
+CCTV2
+CCTV3
+CCTV4
+CCTV5
+CCTV1咪咕视频
+CCTV4k频道
+CCTV-4k频道
+CCTV-2
+CCTV-3
+
