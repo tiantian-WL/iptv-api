@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251102074951 +0800">
+<tv date="20251102103034 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -12292,6 +12292,15 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251102133600 +0800" stop="20251102140600 +0800">
 		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251102140600 +0800" stop="20251102153000 +0800">
+		<title lang="zh">疾速反击</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251102153000 +0800" stop="20251102160000 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251102160000 +0800" stop="20251102171800 +0800">
+		<title lang="zh">古董局中局之国画密码</title>
 	</programme>
 	<channel id="攀枝花新闻综合">
 		<display-name lang="zh">攀枝花新闻综合</display-name>
@@ -29371,6 +29380,15 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251102124600 +0800" stop="20251102141900 +0800">
 		<title lang="zh">变体</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251102141900 +0800" stop="20251102144900 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251102144900 +0800" stop="20251102155300 +0800">
+		<title lang="zh">特种兵归来2：黑色罂粟</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251102155300 +0800" stop="20251102162300 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
