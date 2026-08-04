@@ -49,27 +49,8 @@ Shanghai Education Television Station,http://223.166.234.114:7777/tsfile/live/10
 Shenzhen Satellite TV (2160p),https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 STV City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
-CGTN,https://0472.org/hls/cgtn.m3u8
-STV News and General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
-CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-Tonghua TV (1080p),https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
-CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-VOA美国之音 (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-Xinjiang TV 1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
-Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
-CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
-Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-Xinjiang TV 2,http://222.80.13.33:4022/udp/238.125.3.175:5140
-BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-Xinjiang TV 3,http://110.153.180.106:55555/out_2/index.m3u8
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
+STV News and General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
+浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
+Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
